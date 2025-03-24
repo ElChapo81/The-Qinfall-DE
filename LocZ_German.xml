@@ -2877,12 +2877,12 @@ Beachte: Gegenstände in diesem Lager werden nach 72 Stunden vollständig zerst�
 	<Text key="101007">Frenzy Sword</Text>
 	<Text key="101008">Veteranen-Schwert</Text>
 	<Text key="101009">Schwert des Meisters</Text>
-	<Text key="101010">Arena Master Sword</Text>
+	<Text key="101010">Schwert des Arenameisters</Text>
 	<Text key="101011">Elite-Schwert</Text>
 
 	<Text key="101501">Wing of Faith</Text>
 	<Text key="101502">Jade-Blitz</Text>
-	<Text key="101503">Dragon Claw</Text>
+	<Text key="101503">Drachen Klaue</Text>
 	<Text key="101504">Anostia Keeper</Text>
 	<Text key="101505">Dawn</Text>
 	<Text key="101506">Ancient Legacy</Text>
@@ -2891,7 +2891,7 @@ Beachte: Gegenstände in diesem Lager werden nach 72 Stunden vollständig zerst�
 	<Text key="101509">Klinge des Geistes</Text>
 	
 	<Text key="102001">Schutzschild</Text>
-	<Text key="102002">Newbie-Schild</Text>
+	<Text key="102002">Neulingschild</Text>
 	<Text key="102003">Duellanten-Schild</Text>
 	<Text key="102004">Novizen-Schild</Text>
 	<Text key="102005">Anfängerschild</Text>
@@ -5338,7 +5338,7 @@ Beachte: Gegenstände in diesem Lager werden nach 72 Stunden vollständig zerst�
 	<Text key="350106">Arbeiter [Stufe 5]</Text>
 	<Text key="350107">Arbeiter [Level 6]</Text>
 	<Text key="350108">Olympia-Offizier</Text>
-	<Text key="350109">Klaun</Text>
+	<Text key="350109">Clown</Text>
 	<Text key="350110">Clown</Text>
 	<Text key="350111">Clown</Text>
 
@@ -5355,7 +5355,7 @@ Beachte: Gegenstände in diesem Lager werden nach 72 Stunden vollständig zerst�
 	<Text key="350211">Offizier Aric</Text>
 	<Text key="350212">Watcher Elinor</Text>
 	<Text key="350213">Captain Thorne</Text>
-	<Text key="350214">Sentinel Soren</Text>
+	<Text key="350214">Wächter Soren</Text>
 	<Text key="350215">Landwirt</Text>
 	<Text key="350216">Viehzüchter</Text>
 	<Text key="350217">Schatzsucher</Text>
