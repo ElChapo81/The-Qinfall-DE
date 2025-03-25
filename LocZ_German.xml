@@ -406,7 +406,7 @@
 	<Text key="608">Holzfäller-Level</Text>
 	<Text key="609">Bergbau-Level</Text>
 	<Text key="610">Ernte-Level</Text>
-	<Text key="611">Fischen</Text>
+	<Text key="611">Fischen-Level</Text>
 	<Text key="612">Jagd-Level</Text>
 	<Text key="613">Koch-Level</Text>
 	<Text key="614">Alchemie-Level</Text>
@@ -2506,7 +2506,7 @@ Beachte: Gegenstände in diesem Lager werden nach 72 Stunden vollständig zerst�
 	<Text key="46017">Larcbost</Text>
 	<Text key="46018">Nearon</Text>
 
-	<Text key="46101">Whispering Sands</Text>
+	<Text key="46101">Flüsternder Sand</Text>
 	<Text key="46102">Sandswept</Text>
 	<Text key="46103">Roamtribe</Text>
 	<Text key="46104">Oasis Mirage</Text>
@@ -2552,7 +2552,7 @@ Beachte: Gegenstände in diesem Lager werden nach 72 Stunden vollständig zerst�
 	<Text key="46210">Silvercrest Hafen</Text>
 
 	<Text key="46301">Migftwall Wildlands</Text>
-	<Text key="46302">Savage Graveyard</Text>
+	<Text key="46302">Wilder Friedhof</Text>
 	<Text key="46303">Wrapsoul Origin Valley</Text>
 	<Text key="46304">Pure Fire Ruin</Text>
 	<Text key="46305">Arachnothorax Valley</Text>
